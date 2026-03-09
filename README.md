@@ -22,8 +22,8 @@ Program:
 
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: 
-RegisterNumber:  
+Developed by: Harish N
+RegisterNumber: 212225220037 
 */
 ```
 import numpy as np
